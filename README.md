@@ -1,4 +1,4 @@
-## Mike Q - SRE & Observability Specialist
+## Mike Q - SRE & Observability Specialist 🧑🏼‍💻
 
 `Terraform` `OpenTelemetry` `Dynatrace` `Linux` `Node.js` `Python` `Docker`
 
